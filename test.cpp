@@ -6,4 +6,5 @@ int main(){
     std::cout << "hello";
     std::cout << "bye";qwd
     std::cout << "bye";
+    fwefwef
 }
